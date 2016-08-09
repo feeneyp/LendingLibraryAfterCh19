@@ -55,6 +55,7 @@ public class Loan {
 		if (ID != other.ID)
 			return false;
 		return true;
+
 	}
 
 	public Customer getCustomer() {
